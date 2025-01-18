@@ -1,0 +1,18 @@
+[submodule "alx-system_engineering-devops"]
+	path = alx-system_engineering-devops
+	url = https://github.com/houdaifa-boukhari/alx-system_engineering-devops.git
+[submodule "SimpleShell"]
+	path = SimpleShell
+	url = https://github.com/houdaifa-boukhari/simple_shell
+[submodule "alx-higher_level_programming"]
+	path = alx-higher_level_programming
+	url = https://github.com/houdaifa-boukhari/alx-higher_level_programming
+[submodule "alx-low_level_programming"]
+	path = alx-low_level_programming
+	url = https://github.com/houdaifa-boukhari/alx-low_level_programming
+[submodule "binary_trees"]
+	path = binary_trees
+	url = https://github.com/houdaifa-boukhari/binary_trees
+[submodule "printf"]
+	path = printf
+	url = https://github.com/houdaifa-boukhari/printf
